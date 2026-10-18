@@ -6,23 +6,20 @@ An example project for a mobile app.
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. The emulator/preview should automatically open preview of app.
+
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1.Right now it only shows a greeting, it doesn't actually do anything yet.
+
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
 * Android App developer from the Android developer website.
-*
-*
+
 
 ## Useful Websites to Learn More
 
@@ -36,6 +33,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
+* [ ] I plan to figure out how to change the name dynamically, allowing the user to enter their name.
+* [ ] create new cards with terms
 * [ ]
