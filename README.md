@@ -28,7 +28,7 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Android App Developer Tutorial]([Link](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0))
+* [Android App Developer Tutorial](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0)
 *
 *
 
